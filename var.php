@@ -41,12 +41,9 @@ function redhawk_banner(){
 
 \n";
 echo "================================== I AM HACKING_HAT ================================ \n";
-echo " Authodr      : syahminan - {Hacking_Hat}  \n";
-echo " contact      : 081250633156 \n";
-echo " Instagram    : hacking_hat \n";
+echo " Authodr      : syahminan\n";
 echo " Instagram    : syahminan_1604 \n";
 echo " Youtube      : syahminan \n";
-echo " Blog         : https://peretastopi.blogspot.com/?m=1 \n";
 echo " ================================== Thanks To All ==================================\n";
   
 }
