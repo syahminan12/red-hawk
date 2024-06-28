@@ -97,7 +97,7 @@ scanlist:
     system("clear");
     echo $bold . $blue . "
       +--------------------------------------------------------------+
-      +                  List Of Scans Or Actions                    +
+      +                  List Of Scans or Actions                    +
       +--------------------------------------------------------------+
 
             $lblue Scanning Site : " . $fgreen . $ipsl . $ip . $blue . "
@@ -984,7 +984,7 @@ askscan:
             echo "\n\n";
 
             echo "\n\n$bold" . $lblue . "C R A W L E R \n";
-            echo "=============";
+            echo "=======================";
             echo "\n\n";
             echo "\nCrawling Types & Descriptions:$cln";
             echo "\n\n$bold" . "69:$cln This is the lite version of tge crawler, This will show you the files which returns the http code '200'. This is time efficient and less messy.\n";
